@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Karan%20Tej&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Backend%20%C2%B7%20AI%20%C2%B7%20Cloud&descAlignY=58&descSize=18" width="100%" alt="Karan Tej" />
+<a href="https://karan-tej.pages.dev/"><img src="./assets/header.svg" width="100%" alt="Karan Tej, Forward Deployed Engineer" /></a>
 
-<a href="https://github.com/KaranTej27"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+undergrad+at+SSIT%2C+class+of+2028;I+build+backend+and+AI+systems;Right+now%3A+an+AI+agent+for+Kubernetes;Looking+for+SWE+internships%2C+Summer+2027" alt="Typing intro" /></a>
+<a href="https://karan-tej.pages.dev/"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=F6A9C9&center=true&vCenter=true&width=640&lines=I+build+AI+systems+in+Python;and+ship+them+with+Docker%2C+Kubernetes+and+CI%2FCD;Right+now%3A+an+AI+agent+that+fixes+Kubernetes+clusters;CS+undergrad+at+SSIT%2C+class+of+2028" alt="I build AI systems in Python and ship them with Docker, Kubernetes and CI/CD" /></a>
 
-<a href="https://www.linkedin.com/in/karan-tej-683934333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/Karantej6"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://karan-tej.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-f6a9c9?style=for-the-badge&logo=googlechrome&logoColor=15110c" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/karan-tej-683934333/"><img src="https://img.shields.io/badge/LinkedIn-15130f?style=for-the-badge&logo=linkedin&logoColor=f6a9c9" alt="LinkedIn" /></a>
+<a href="https://x.com/Karantej6"><img src="https://img.shields.io/badge/X-15130f?style=for-the-badge&logo=x&logoColor=f6a9c9" alt="X" /></a>
 
 </div>
 
@@ -13,7 +14,7 @@
 
 I'm a CS student at Sri Siddhartha Institute of Technology in Tumakuru, graduating in 2028. Most of what I build is backend-heavy with some ML mixed in, and I care a lot about getting the whole thing working end to end, not just one piece of it.
 
-I'm also the AI/ML Tech Lead at QARC, our college's Quantum AI and Research Cell. Right now I'm looking for software engineering internships for Summer 2027.
+I'm also the AI/ML Tech Lead at QARC, our college's Quantum AI and Research Cell. Right now I'm looking for software engineering internships for Summer 2027. More about me on my [portfolio](https://karan-tej.pages.dev/).
 
 ### Things I've built
 
@@ -51,4 +52,4 @@ Learning right now: Kubernetes
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/KaranTej27/KaranTej27/output/github-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="" />
+<a href="https://karan-tej.pages.dev/"><img src="./assets/footer.svg" width="100%" alt="More at karan-tej.pages.dev" /></a>
