@@ -6,7 +6,6 @@
 
 <a href="https://www.linkedin.com/in/karan-tej-683934333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/Karantej6"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<img src="https://komarev.com/ghpvc/?username=KaranTej27&style=for-the-badge&color=1f6feb&label=Profile+views" alt="Profile views" />
 
 </div>
 
