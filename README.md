@@ -1,4 +1,16 @@
-## Hey, I'm Karan
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Karan%20Tej&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Backend%20%C2%B7%20AI%20%C2%B7%20Cloud&descAlignY=58&descSize=18" width="100%" alt="Karan Tej" />
+
+<a href="https://github.com/KaranTej27"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+undergrad+at+SSIT%2C+class+of+2028;I+build+backend+and+AI+systems;Right+now%3A+an+AI+agent+for+Kubernetes;Looking+for+SWE+internships%2C+Summer+2027" alt="Typing intro" /></a>
+
+<a href="https://www.linkedin.com/in/karan-tej-683934333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/Karantej6"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<img src="https://komarev.com/ghpvc/?username=KaranTej27&style=for-the-badge&color=1f6feb&label=Profile+views" alt="Profile views" />
+
+</div>
+
+### About me
 
 I'm a CS student at Sri Siddhartha Institute of Technology in Tumakuru, graduating in 2028. Most of what I build is backend-heavy with some ML mixed in, and I care a lot about getting the whole thing working end to end, not just one piece of it.
 
@@ -20,7 +32,9 @@ An AI agent that watches a Kubernetes cluster, figures out what broke, and fixes
 
 ### Tools I use
 
-[![Tools](https://skillicons.dev/icons?i=python,java,js,ts,nextjs,fastapi,flask,firebase,docker,git,linux&perline=11)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,js,ts,nextjs,fastapi,flask,firebase,docker,git,linux&perline=11" alt="Tools" /></a>
+</p>
 
 Learning right now: Kubernetes
 
@@ -30,6 +44,12 @@ Learning right now: Kubernetes
 - Won an Arduino workshop competition
 - Helping run National Quantum Fest 2026 at SSIT
 
-### Say hi
+### My contributions, eaten by a snake
 
-[LinkedIn](https://www.linkedin.com/in/karan-tej-683934333/) · [X](https://x.com/Karantej6)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaranTej27/KaranTej27/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaranTej27/KaranTej27/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/KaranTej27/KaranTej27/output/github-snake.svg" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="" />
